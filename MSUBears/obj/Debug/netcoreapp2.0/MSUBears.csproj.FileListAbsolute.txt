@@ -1,0 +1,11 @@
+C:\Users\Kaleb Steinbaugh\Documents\repositories\MSUBears\bin\Debug\netcoreapp2.0\MSUBears.deps.json
+C:\Users\Kaleb Steinbaugh\Documents\repositories\MSUBears\bin\Debug\netcoreapp2.0\MSUBears.runtimeconfig.json
+C:\Users\Kaleb Steinbaugh\Documents\repositories\MSUBears\bin\Debug\netcoreapp2.0\MSUBears.runtimeconfig.dev.json
+C:\Users\Kaleb Steinbaugh\Documents\repositories\MSUBears\bin\Debug\netcoreapp2.0\MSUBears.dll
+C:\Users\Kaleb Steinbaugh\Documents\repositories\MSUBears\bin\Debug\netcoreapp2.0\MSUBears.pdb
+C:\Users\Kaleb Steinbaugh\Documents\repositories\MSUBears\obj\Debug\netcoreapp2.0\MSUBears.csprojAssemblyReference.cache
+C:\Users\Kaleb Steinbaugh\Documents\repositories\MSUBears\obj\Debug\netcoreapp2.0\MSUBears.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb Steinbaugh\Documents\repositories\MSUBears\obj\Debug\netcoreapp2.0\MSUBears.AssemblyInfoInputs.cache
+C:\Users\Kaleb Steinbaugh\Documents\repositories\MSUBears\obj\Debug\netcoreapp2.0\MSUBears.AssemblyInfo.cs
+C:\Users\Kaleb Steinbaugh\Documents\repositories\MSUBears\obj\Debug\netcoreapp2.0\MSUBears.dll
+C:\Users\Kaleb Steinbaugh\Documents\repositories\MSUBears\obj\Debug\netcoreapp2.0\MSUBears.pdb

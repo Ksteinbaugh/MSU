@@ -1,0 +1,11 @@
+C:\Users\Kaleb Steinbaugh\Documents\repositories\FileOperation\obj\Debug\netcoreapp2.0\FileOperation.csprojAssemblyReference.cache
+C:\Users\Kaleb Steinbaugh\Documents\repositories\FileOperation\obj\Debug\netcoreapp2.0\FileOperation.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb Steinbaugh\Documents\repositories\FileOperation\obj\Debug\netcoreapp2.0\FileOperation.AssemblyInfoInputs.cache
+C:\Users\Kaleb Steinbaugh\Documents\repositories\FileOperation\obj\Debug\netcoreapp2.0\FileOperation.AssemblyInfo.cs
+C:\Users\Kaleb Steinbaugh\Documents\repositories\FileOperation\bin\Debug\netcoreapp2.0\FileOperation.deps.json
+C:\Users\Kaleb Steinbaugh\Documents\repositories\FileOperation\bin\Debug\netcoreapp2.0\FileOperation.runtimeconfig.json
+C:\Users\Kaleb Steinbaugh\Documents\repositories\FileOperation\bin\Debug\netcoreapp2.0\FileOperation.runtimeconfig.dev.json
+C:\Users\Kaleb Steinbaugh\Documents\repositories\FileOperation\bin\Debug\netcoreapp2.0\FileOperation.dll
+C:\Users\Kaleb Steinbaugh\Documents\repositories\FileOperation\bin\Debug\netcoreapp2.0\FileOperation.pdb
+C:\Users\Kaleb Steinbaugh\Documents\repositories\FileOperation\obj\Debug\netcoreapp2.0\FileOperation.dll
+C:\Users\Kaleb Steinbaugh\Documents\repositories\FileOperation\obj\Debug\netcoreapp2.0\FileOperation.pdb
