@@ -1,2 +1,2 @@
 # MSU
-MSU tasks
+MSU tasks and project
