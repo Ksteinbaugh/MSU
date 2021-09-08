@@ -1,5 +1,4 @@
-﻿using System;
-using Ststem.IO;
+using System;
 
 namespace FibonacciSequence
 {
@@ -7,12 +6,38 @@ namespace FibonacciSequence
     {
         static void Main(string[] args)
         {
-            // F(n) = F(n-1) + F(n-2)
-            int n = 10;
+            int fibInput = 0;
+            int fibOne = 1;
+            int fibTwo = 0;
+            int currentFib = 0;
 
-            for (i = 0, i < n, i++)
+            try
             {
+                Console.Write("Enter your your (nth) number: ");
 
+                fibInput = Int32.Parse(Console.ReadLine());
+            }
+            catch
+            {
+                Console.Write("User input not a number.");
+            }
+
+            for (int i = 0; i < fibInput; i++)
+            {
+                // if i = 0 || 1 then print i
+                if (i == 0 || i == 1)
+                {
+                    Console.WriteLine(i);
+                }
+
+                else 
+                {
+                    currentFib = fibOne + fibTwo;
+                    Console.WriteLine(currentFib);
+                    fibTwo = fibOne;
+                    fibOne = currentFib;
+                }
+                
             }
 
         }
